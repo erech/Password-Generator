@@ -12,7 +12,7 @@ Password length must be between 8 - 128 characters. If this is not met, the prom
 If the user cancels the prompt, they will be returned to the default screen.
 
 ## Webpage
-![Webpage Screenshot](images/webpage.png)
+![Webpage Screenshot](Develop\images\webpage.png)
 
 URL : https://erech.github.io/Password-Generator/
 
